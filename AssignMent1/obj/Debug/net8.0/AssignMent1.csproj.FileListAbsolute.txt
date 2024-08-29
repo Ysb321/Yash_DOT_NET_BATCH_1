@@ -1,0 +1,15 @@
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\bin\Debug\net8.0\AssignMent1.exe
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\bin\Debug\net8.0\AssignMent1.deps.json
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\bin\Debug\net8.0\AssignMent1.runtimeconfig.json
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\bin\Debug\net8.0\AssignMent1.dll
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\bin\Debug\net8.0\AssignMent1.pdb
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\AssignMent1.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\AssignMent1.AssemblyInfoInputs.cache
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\AssignMent1.AssemblyInfo.cs
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\AssignMent1.csproj.CoreCompileInputs.cache
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\AssignMent1.sourcelink.json
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\AssignMent1.dll
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\refint\AssignMent1.dll
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\AssignMent1.pdb
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\AssignMent1.genruntimeconfig.cache
+D:\New folder\code\Yash_DOT_NET_BATCH_1\AssignMent1\obj\Debug\net8.0\ref\AssignMent1.dll
